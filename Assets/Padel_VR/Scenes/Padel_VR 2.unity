@@ -133667,7 +133667,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1109591498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -157048,7 +157048,7 @@ MonoBehaviour:
   m_StopNaN: 0
   m_Dithering: 0
   m_ClearDepth: 1
-  m_AllowXRRendering: 1
+  m_AllowXRRendering: 0
   m_AllowHDROutput: 1
   m_UseScreenCoordOverride: 0
   m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -157130,13 +157130,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1292630491}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.2634245, z: -0, w: 0.96468}
-  m_LocalPosition: {x: 25.77, y: -20.22, z: 254.04}
+  m_LocalRotation: {x: 0.15102394, y: -0, z: -0, w: 0.98853016}
+  m_LocalPosition: {x: 20.7, y: -29.47, z: 255.53}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: -30.547, z: 0}
+  m_LocalEulerAnglesHint: {x: 17.373, y: 0, z: 0}
 --- !u!1 &1292657232
 GameObject:
   m_ObjectHideFlags: 0
@@ -266445,7 +266445,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f9097bf5f82e4240907c04aba1b7902, type: 2}
+  - {fileID: 2100000, guid: de064e93651b2432d8976b9b74476623, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -276432,7 +276432,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1717954561319223654
 Transform:
   m_ObjectHideFlags: 0
