@@ -37487,7 +37487,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   uiPanel: {fileID: 1715699392}
   videoPanel: {fileID: 1567817203}
-  videoPlayer: {fileID: 1567817204}
+  hologramPlayer: {fileID: 0}
 --- !u!4 &280750235
 Transform:
   m_ObjectHideFlags: 0
@@ -139582,7 +139582,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1109591498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -142849,7 +142849,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1136740783}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.016}
+  m_LocalPosition: {x: 0, y: 0, z: -0.04}
   m_LocalScale: {x: 0.03, y: 0.04, z: 0.03}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -142857,7 +142857,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.07, y: -0.104}
+  m_AnchoredPosition: {x: 0.0899, y: -0.129}
   m_SizeDelta: {x: 9.19, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1136740785
@@ -142889,8 +142889,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4288453788
+  m_fontColor: {r: 0.6117647, g: 0.6117647, b: 0.6117647, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -142907,8 +142907,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 12
+  m_fontSizeBase: 12
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -162392,7 +162392,7 @@ GameObject:
   - component: {fileID: 1292630492}
   m_Layer: 0
   m_Name: recam (1)
-  m_TagString: Untagged
+  m_TagString: reccam
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -162404,7 +162404,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1292630491}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b75a1ccd207dfff4cb107f86dcd17c83, type: 3}
   m_Name: 
@@ -162505,7 +162505,7 @@ Camera:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingPath: -1
-  m_TargetTexture: {fileID: 8400000, guid: 360fdb3e1e2fbeb4f96435a9aa0c2960, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: 7eb5e9f88e7af6e4f83b1a9a091c0f4c, type: 2}
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
